@@ -7,13 +7,13 @@ Unlock the secrets of the best 🌟 🌟 🌟 🌟 🌟 and most rapidly growing
 Take your machine learning skills to the next level by mastering the best framework for uncertainty quantification - Conformal Prediction.
 
 Key Features
-🌟 Master Conformal Prediction, a fast-growing ML framework with Python applications.
-🌟 Explore cutting-edge methods to measure and manage uncertainty in industry applications.
-🌟 The book will explain how Conformal Prediction differs from traditional machine learning.
+🌟 Master Conformal Prediction, a fast-growing ML framework with Python applications. 🌟 
+🌟 Explore cutting-edge methods to measure and manage uncertainty in industry applications. 🌟 
+🌟 The book will explain how Conformal Prediction differs from traditional machine learning. 🌟 
 
 Book Description
 
-Embark on an insightful journey with 'Practical Guide to Applied Conformal Prediction in Python', a comprehensive resource that effectively equips you with the latest techniques to quantify uncertainty in machine learning and computer vision models.
+🌟 🌟 🌟  Embark on an insightful journey with 'Practical Guide to Applied Conformal Prediction in Python', a comprehensive resource that effectively equips you with the latest techniques to quantify uncertainty in machine learning and computer vision models. 🌟 🌟 🌟 
 
 This book covers a wide array of real-world applications, including Conformal Prediction for forecasting, computer vision, and NLP, as well as advanced examples for handling imbalanced data and multi-class classification problems. These practical case studies will enable you to apply your newfound knowledge to various industry scenarios.
 
