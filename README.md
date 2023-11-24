@@ -1,5 +1,7 @@
 # Practical-Guide-to-Applied-Conformal-Prediction
 
+**'Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications' can be ordered on Amazon** [**Amazon USA 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762), [**Amazon UK 🇬🇧**](https://www.amazon.co.uk/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon India 🇮🇳**](https://www.amazon.in/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS), [**Amazon Germany 🇩🇪**](https://www.amazon.de/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/), [**Amazon France 🇫🇷**](https://www.amazon.fr/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Spain 🇪🇸**](https://www.amazon.es/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon Canada 🇨🇦**](https://www.amazon.ca/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Japan 🇯🇵**](https://www.amazon.co.jp/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
+
 This is the code repository for "Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications" in Python, published by Packt.
 
 ![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/PacktPublishing/Practical-Guide-to-Applied-Conformal-Prediction/blob/main/book_cover.jpg)
