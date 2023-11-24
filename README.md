@@ -6,9 +6,9 @@ This is the code repository for **"Practical Guide to Applied Conformal Predicti
 
 ![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/PacktPublishing/Practical-Guide-to-Applied-Conformal-Prediction/blob/main/book_cover.jpg)
 
-* * Unlock the secrets of the best 🌟 🌟 🌟 🌟 🌟 and the most rapidly growing 🚀🚀🚀🚀🚀 uncertainty quantification framework of the XXIst century.* *  
+__Unlock the secrets of the best 🌟 🌟 🌟 🌟 🌟 and the most rapidly growing 🚀🚀🚀🚀🚀 uncertainty quantification framework of the XXIst century.__  
 
-* Take your machine learning skills to the next level by mastering the best framework for uncertainty quantification - Conformal Prediction.* * 
+__Take your machine learning skills to the next level by mastering the best framework for uncertainty quantification - Conformal Prediction.__
 
 **Key Features**
 🌟 Master Conformal Prediction, a fast-growing ML framework with Python applications. 🌟 
