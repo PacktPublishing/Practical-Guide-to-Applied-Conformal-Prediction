@@ -4,10 +4,10 @@
 
 This is the code repository for [Practical Guide to Applied Conformal Prediction](https://www.packtpub.com/product/practical-guide-to-applied-conformal-prediction/9781805122760?utm_source=github&utm_medium=repository&utm_id=9781805122760), published by Packt.
 
-**Learn and apply the best uncertainty frameworks to your industry applications	**
+**Learn and apply the best uncertainty frameworks to your industry applications**
 
 ## What is this book about?
-The Statistics and Machine Learning with R Workshop is a comprehensive resource packed with insights into statistics and machine learning, along with a deep dive into R libraries. The learning experience is further enhanced by practical examples and hands-on exercises that provide explanations of key concepts.
+Embark on an insightful journey with 'Practical Guide to Applied Conformal Prediction in Python', a comprehensive resource that equips you with the latest techniques to quantify uncertainty in machine learning and computer vision models effectively.
 
 This book covers the following exciting features: 
 * Fundamental concepts and principles of conformal prediction
@@ -44,39 +44,41 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-This book assumes you have basic knowledge of the Python programming language. You will require
-the Anaconda 2.4.0 or higher with Python (3.10 or higher); a minimum hardware requirement of a
-300-MHz processor, 128 MB of RAM, and 1.5 GB of available hard disk; and a Windows, Linux, or
-macOS X operating system.
+You will need a working Python environment on your computer. We recommend using Python 3.6
+or later.
+Ensure that you have essential libraries, such as scikit-learn, NumPy, and Matplotlib, installed. If not,
+you can easily install them using Conda or pip.
+
+The notebooks can be run both locally or by using Google Colab (https://colab.research.
+google.com).
 
 System requirements are mentioned in the following table:
 
 | Software/Hardware                              | Operating System requirements      |
 | ------------------------------------           | -----------------------------------|
-| Anaconda 2.4.0 or higher                       | Windows – 64-bit x86; macOS – 64-bit x86 and M1; or Linux – 64-bit x86, 64-bit aarch64 (AWS Graviton2), 64-bit Power8/
-Power9, or s390x (Linux on IBM Z and LinuxONE) |
-| Python 3.10 or higher                          |8 GB of RAM|
-| ECMAScript 11                                  |6 GB of disk space or more|
+|Python                                          | Windows, macOS, or Linux |
+|Colab (to run notebooks in Google Cloud)        | Windows, macOS, or Linux |
+|MAPIE                                           | Windows, macOS, or Linux |
+|Amazon Fortuna                                  | Windows, macOS, or Linux |
+|NIxtla statsforecast                            | Windows, macOS, or Linux |
+|NeuralProphet                                   |Windows, macOS, or Linux |
 
-Follow the instructions for the latest Anaconda installation. All scripts in this book assume you will
-run the code from the command line within an Anaconda Python environment. If you try to use
-Jupyter Notebooks, you may get unpredictable results.
 
 ### Related products <Other books you may enjoy>
-* Building Statistical Models in Python[[Packt]](https://www.packtpub.com/product/Building-Statistical-Models-in-Python/9781800565661) [[Amazon]](https://www.amazon.com/dp/1804614289)
+* Practical Machine Learning on Databricks [[Packt]](https://www.packtpub.com/product/practical-machine-learning-on-databricks/9781801812030) [[Amazon]](https://www.amazon.com/dp/1801812039)
 
-* Enhancing Deep Learning with Bayesian Inference [[Packt]](https://www.packtpub.com/product/Enhancing-Deep-Learning-with-Bayesian-Inference/9781803246888) [[Amazon]](https://www.amazon.com/dp/180324688X)
+* Synthetic Data for Machine Learning [[Packt]](https://www.packtpub.com/product/synthetic-data-for-machine-learning/9781803245409) [[Amazon]](https://www.amazon.com/dp/1803245409)
 
 ## Get to Know the Author
-**oel Lawhead**
- is a PMI-certified Project Management Professional (PMP), a certified GIS Professional
-(GISP), and vice president of NVision Solutions, Inc., an award-winning firm specializing in geospatial
-technology integration and sensor engineering for NASA, FEMA, NOAA, the US Navy, and many other
-commercial and non-profit organizations. Joel began using Python in 1997 and started combining
-it with geospatial software development in 2000. He has authored multiple editions of Learning
-Geospatial Analysis with Python and QGIS Python Programming Cookbook, both from Packt. He is
-also the developer of the open source Python Shapefile Library (PyShp) and maintains a geospatial
-technical blog at GeospatialPython.com
+**Valery Manokhin**, 
+is the leading expert in the field of machine learning and Conformal Prediction.
+He holds a Ph.D.in Machine Learning from Royal Holloway, University of London. His doctoral work
+was supervised by the creator of Conformal Prediction, Vladimir Vovk, and focused on developing
+new methods for quantifying uncertainty in machine learning models.
+Valery has published extensively in leading machine learning journals, and his Ph.D. dissertation
+‘Machine Learning for Probabilistic Prediction’ is read by thousands of people across the world. He is
+also the creator of “Awesome Conformal Prediction,” the most popular resource and GitHub repository
+for all things Conformal Prediction.
 
 
 
