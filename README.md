@@ -45,13 +45,11 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 
 You will need a working Python environment on your computer. We recommend using Python 3.6
-or later.
-Ensure that you have essential libraries, such as scikit-learn, NumPy, and Matplotlib, installed. If not,
+or later. Ensure that you have essential libraries, such as scikit-learn, NumPy, and Matplotlib, installed. If not,
 you can easily install them using Conda or pip.
 
-The notebooks can be run both locally or by using Google Colab (https://colab.research.
-google.com).
-
+The notebooks can be run both locally or by using Google Colab (https://colab.research.google.com).
+ 
 System requirements are mentioned in the following table:
 
 | Software/Hardware                              | Operating System requirements      |
