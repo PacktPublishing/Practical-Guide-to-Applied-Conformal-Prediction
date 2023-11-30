@@ -29,10 +29,11 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-lm_model = lm(Class_num ~ Duration, data=GermanCredit)
-coefs = coefficients(lm_model)
-intercept = coefs[1]
-slope = coefs[2]
+y_pred_calib = model.predict(X_calib)
+y_pred_score_calib = model.predict_proba(X_calib)
+
+y_pred_test = model.predict(X_test)
+y_pred_score_test = model.predict_proba(X_test)
 ```
 
 
