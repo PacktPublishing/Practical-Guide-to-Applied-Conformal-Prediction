@@ -39,7 +39,7 @@ slope = coefs[2]
 **Following is what you need for this book:**
 This book is for beginner to intermediate-level data scientists, undergraduate to masters-level students, and early to mid-senior data scientists or analysts looking to expand their knowledge of machine learning by exploring various R libraries. Basic knowledge of linear algebra and data modeling is a must.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 
 ### Software and Hardware List
@@ -56,12 +56,12 @@ System requirements are mentioned in the following table:
 
 | Software/Hardware                              | Operating System requirements      |
 | ------------------------------------           | -----------------------------------|
-|Python                                          | Windows, macOS, or Linux |
-|Colab (to run notebooks in Google Cloud)        | Windows, macOS, or Linux |
-|MAPIE                                           | Windows, macOS, or Linux |
-|Amazon Fortuna                                  | Windows, macOS, or Linux |
-|NIxtla statsforecast                            | Windows, macOS, or Linux |
-|NeuralProphet                                   |Windows, macOS, or Linux |
+| Python                                          | Windows, macOS, or Linux           |
+| Colab (to run notebooks in Google Cloud)        | Windows, macOS, or Linux           |
+| MAPIE                                           | Windows, macOS, or Linux           |
+| Amazon Fortuna                                  | Windows, macOS, or Linux           |
+| NIxtla statsforecast                            | Windows, macOS, or Linux           |
+| NeuralProphet                                   | Windows, macOS, or Linux            |
 
 
 ### Related products <Other books you may enjoy>
