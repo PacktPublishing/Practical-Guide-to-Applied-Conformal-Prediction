@@ -82,7 +82,7 @@ for all things Conformal Prediction.
 
 
 
-
+## Additional Information
 
 
 **'Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications' can be ordered on Amazon** [**Amazon USA 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762), [**Amazon UK 🇬🇧**](https://www.amazon.co.uk/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon India 🇮🇳**](https://www.amazon.in/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS), [**Amazon Germany 🇩🇪**](https://www.amazon.de/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/), [**Amazon France 🇫🇷**](https://www.amazon.fr/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Spain 🇪🇸**](https://www.amazon.es/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon Canada 🇨🇦**](https://www.amazon.ca/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Japan 🇯🇵**](https://www.amazon.co.jp/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
@@ -110,17 +110,6 @@ Designed for data scientists, analysts, machine learning engineers, and industry
 
 If you're eager to manage uncertainty in industry applications using Python, 'Practical Guide to Applied Conformal Prediction in Python' is your ultimate guide. Order your copy today and propel your career to new heights!
 
-**What you will learn**
-🌟 Fundamental concepts and principles of conformal prediction
-🌟 Learn how Conformal Prediction differs from traditional ML methods.
-🌟 Apply real-world examples to your own industry applications
-🌟 Explore advanced topics: imbalanced data & multi-class CP
-🌟 Dive into the details of the conformal prediction framework
-🌟 Boost your career as a data scientist, ML engineer, or researcher
-
-**Who This Book Is For**
-
-This book is for people interested in Conformal Prediction – data scientists, machine learning engineers, academics, researchers, software developers, students, data analysts, and statisticians.
 
 **Table of Contents**
 🌟 Introducing Conformal Prediction
