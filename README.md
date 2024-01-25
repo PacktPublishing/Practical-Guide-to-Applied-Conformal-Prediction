@@ -38,7 +38,7 @@ y_pred_score_test = model.predict_proba(X_test)
 
 
 **Following is what you need for this book:**
-This book is for beginner to intermediate-level data scientists, undergraduate to masters-level students, and early to mid-senior data scientists or analysts looking to expand their knowledge of machine learning by exploring various R libraries. Basic knowledge of linear algebra and data modeling is a must.	
+Ideal for readers with a basic understanding of machine learning concepts and Python programming, this book caters to data scientists, ML engineers, academics, and anyone keen on advancing their skills in uncertainty quantification in ML.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
