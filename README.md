@@ -1,7 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Practical Guide to Applied Conformal Prediction
 
 <a href="https://www.packtpub.com/product/practical-guide-to-applied-conformal-prediction/9781805122760?utm_source=github&utm_medium=repository&utm_id=9781805122760"><img src="https://content.packt.com/B19925/cover_image_small.jpg" alt="Learning Geospatial Analysis with Python" height="256px" align="right"></a>
